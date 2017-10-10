@@ -1,0 +1,9 @@
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\obj\Debug\ABMDocente.csprojResolveAssemblyReference.cache
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\obj\Debug\ABMDocente.Properties.Resources.resources
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\obj\Debug\ABMDocente.csproj.GenerateResource.Cache
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\obj\Debug\ABMDocente.csproj.CoreCompileInputs.cache
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\bin\Debug\ABMDocente.exe.config
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\bin\Debug\ABMDocente.exe
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\bin\Debug\ABMDocente.pdb
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\obj\Debug\ABMDocente.exe
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\obj\Debug\ABMDocente.pdb

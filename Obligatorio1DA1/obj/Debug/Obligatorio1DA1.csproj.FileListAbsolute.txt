@@ -1,0 +1,3 @@
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\obj\Debug\Obligatorio1DA1.Properties.Resources.resources
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\obj\Debug\Obligatorio1DA1.csproj.GenerateResource.Cache
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\obj\Debug\Obligatorio1DA1.csproj.CoreCompileInputs.cache
