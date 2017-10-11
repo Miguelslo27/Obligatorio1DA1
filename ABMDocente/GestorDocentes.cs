@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ABMDocente.Clases;
 
 namespace ABMDocente
 {
-    public class Docente
+    public class GestorDocentes
     {
-        public void altaDatosDocente()
+        public Docente altaDatosDocente()
         {
-            Console.WriteLine("Alta Docente");
-            Console.ReadLine();
+            return new Docente();
         }
     }
 }

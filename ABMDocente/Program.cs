@@ -16,9 +16,6 @@ namespace ABMDocente
         {
             Console.WriteLine("Aplicación empezada");
 
-            var docente = new Docente();
-            docente.altaDatosDocente();
-
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

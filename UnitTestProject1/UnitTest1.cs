@@ -10,7 +10,10 @@ namespace UnitTestProject1
         [TestMethod]
         public void testAltaDatosDocente()
         {
-            var docente = new Docente();
+            Docente docente = new Docente();
+            Console.WriteLine(typeof docente);
+
+            //Assert.IsInstanceOfType(docente, "Docente");
         }
     }
 }
