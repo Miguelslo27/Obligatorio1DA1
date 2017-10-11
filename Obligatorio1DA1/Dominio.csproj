@@ -76,10 +76,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ABMDocente\ABMDocente.csproj">
-      <Project>{0f4708a3-060e-4952-8e71-57575431c34f}</Project>
-      <Name>ABMDocente</Name>
-    </ProjectReference>
+    <Folder Include="NewFolder1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

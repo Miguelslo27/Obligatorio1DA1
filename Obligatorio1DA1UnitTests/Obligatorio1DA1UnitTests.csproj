@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ABMDocente\ABMDocente.csproj">
-      <Project>{0f4708a3-060e-4952-8e71-57575431c34f}</Project>
+      <Project>{13ba2e60-bcda-47e8-ad63-8757669916d8}</Project>
       <Name>ABMDocente</Name>
     </ProjectReference>
   </ItemGroup>

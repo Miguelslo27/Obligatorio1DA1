@@ -4,8 +4,6 @@ C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\obj\Debug\Obli
 C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\bin\Debug\Obligatorio1DA1.exe.config
 C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\bin\Debug\Obligatorio1DA1.exe
 C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\bin\Debug\Obligatorio1DA1.pdb
-C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\bin\Debug\ABMDocente.exe
-C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\bin\Debug\ABMDocente.pdb
-C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\bin\Debug\ABMDocente.exe.config
 C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\obj\Debug\Obligatorio1DA1.exe
 C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\obj\Debug\Obligatorio1DA1.pdb
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1\obj\Debug\Obligatorio1DA1.csprojResolveAssemblyReference.cache

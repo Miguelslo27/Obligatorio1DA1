@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ABMDocente.Clases
+namespace Dominio
 {
-    public class Docente
+    public class Dominio
     {
     }
 }

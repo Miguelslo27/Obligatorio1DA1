@@ -1,7 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ABMDocente;
-using ABMDocente.Clases;
 
 namespace Obligatorio1DA1UnitTests
 {
@@ -11,11 +10,13 @@ namespace Obligatorio1DA1UnitTests
         [TestMethod]
         public void TestAltaDocente()
         {
-            GestorDocentes gestorDocentes = new GestorDocentes();
-            Docente docente = gestorDocentes.altaDatosDocente();
+            ABM abm = new ABM();
+            Docente docente = abm.altaDatosDocente();
 
             // Test si el docente creado es del tipo Docente
             Assert.IsInstanceOfType(docente, typeof(Docente));
+
+            //
         }
     }
 }
