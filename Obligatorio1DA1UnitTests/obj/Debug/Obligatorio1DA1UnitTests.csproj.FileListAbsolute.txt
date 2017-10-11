@@ -13,3 +13,7 @@ C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1UnitTests\obj\D
 C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1UnitTests\obj\Debug\Obligatorio1DA1UnitTests.dll
 C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1UnitTests\obj\Debug\Obligatorio1DA1UnitTests.pdb
 C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1UnitTests\bin\Debug\ABMDocente.dll
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1UnitTests\bin\Debug\Dominio.dll
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1UnitTests\bin\Debug\Interfaces.dll
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1UnitTests\bin\Debug\Dominio.pdb
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Obligatorio1DA1UnitTests\bin\Debug\Interfaces.pdb

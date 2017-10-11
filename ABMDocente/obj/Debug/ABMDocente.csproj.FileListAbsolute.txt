@@ -4,3 +4,5 @@ C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\obj\Debug\ABMDocent
 C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\obj\Debug\ABMDocente.csproj.CoreCompileInputs.cache
 C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\obj\Debug\ABMDocente.dll
 C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\obj\Debug\ABMDocente.pdb
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\bin\Debug\Interfaces.dll
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\ABMDocente\bin\Debug\Interfaces.pdb

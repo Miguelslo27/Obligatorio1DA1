@@ -1,0 +1,6 @@
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Interfaces\obj\Debug\Interfaces.pdb
