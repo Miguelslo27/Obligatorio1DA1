@@ -1,0 +1,8 @@
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Dominio\bin\Debug\Dominio.dll
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Dominio\bin\Debug\Interfaces.dll
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Dominio\bin\Debug\Interfaces.pdb
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Dominio\obj\Debug\Aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Dominio\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Dominio\obj\Debug\Dominio.dll
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\Dominio\obj\Debug\Dominio.pdb

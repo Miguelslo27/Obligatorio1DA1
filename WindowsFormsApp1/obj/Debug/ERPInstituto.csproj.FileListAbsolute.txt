@@ -1,0 +1,11 @@
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\WindowsFormsApp1\obj\Debug\ERPInstituto.csprojResolveAssemblyReference.cache
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\WindowsFormsApp1\obj\Debug\ERPInstituto.csproj.GenerateResource.Cache
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\WindowsFormsApp1\obj\Debug\ERPInstituto.csproj.CoreCompileInputs.cache
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\WindowsFormsApp1\bin\Debug\Dominio.dll
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\WindowsFormsApp1\bin\Debug\Dominio.pdb
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\miguel.sosa\source\repos\Obligatorio1DA1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

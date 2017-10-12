@@ -1,0 +1,22 @@
+﻿using System;
+using System.Windows.Forms;
+using Aplicacion;
+
+namespace WindowsFormsApp1
+{
+    static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Dominio d = new Dominio();
+
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}

@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obligatorio1DA1UnitTests", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABMDocente", "ABMDocente\ABMDocente.csproj", "{13BA2E60-BCDA-47E8-AD63-8757669916D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{BBA58480-BA7D-4A40-8BD7-79A1A4485D16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion", "Dominio\Aplicacion.csproj", "{BBA58480-BA7D-4A40-8BD7-79A1A4485D16}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{7ACDA8CB-4E7D-4281-B601-72C56FB70D79}"
 EndProject
